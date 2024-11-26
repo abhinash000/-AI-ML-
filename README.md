@@ -28,10 +28,10 @@ Future research directions include incorporating real-time data streams, explori
 ### Conclusion
 Predictive modeling offers a promising approach to proactively address employee burnout. By accurately identifying employees at risk, organizations can implement targeted interventions, improve employee well-being, and enhance overall organizational performance. As technology and data science continue to advance, the potential for burnout prediction and prevention will undoubtedly grow, leading to healthier and more productive work environments.
  
-**Would you like to focus on a specific section or aspect of the project for further development?** 
- my name is abhinash palagara
-  it was my  internship project 
-   my email id is "abhin7650@gmail.com"
+**Would you like to focus on a specific section or aspect of the project for further development?then contact me** 
+    my name is abhinash palagara
+    it was my  internship project 
+    my email id is "abhin7650@gmail.com"
     ******************  End for  this employee burnout prediction ***********************
     
     kind request : on latest news even robot commit suicide by over work.
